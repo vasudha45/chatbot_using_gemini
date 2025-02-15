@@ -12,13 +12,6 @@ Contextual Memory: Gemini-Pro remembers previous conversations, allowing for sea
 Streamlit Integration: The app is built on Streamlit, a user-friendly framework, ensuring a smooth and responsive user interface.
 Getting Started
 
-Visit the ChatApt web application at [app URL]. Simply type your message in the chatbox and hit enter. Gemini-Pro will respond with a thoughtful and informative reply.
+Visit the ChatApt web application at https://geminichatbot44.streamlit.app/. Simply type your message in the chatbox and hit enter. Gemini-Pro will respond with a thoughtful and informative reply.
 
-Use Cases
-
-ChatApt can be used for a wide range of purposes, including:
-
-Customer Support: Provide instant and comprehensive assistance to customers.
-Information Retrieval: Ask Gemini-Pro questions about various topics and receive accurate and up-to-date answers.
-Creative Writing: Collaborate with Gemini-Pro to generate ideas, stories, or poems.
-Language Learning: Practice conversation skills in different languages and receive feedback from Gemini-Pro.
+I have deployed it on share.streamlit.io
